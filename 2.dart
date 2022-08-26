@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-import 'dart:math'; //Nạp thư viện
-
-
-sumInt(int c, int b) {
-  return c + b;
-}
-=======
 import 'dart:math'; //Nạp thư viện
 
 
@@ -25,4 +17,3 @@ main(List<String> args) {
   print('Căn bậc 2 của $tong là $sqrtvalue');
 
 }
->>>>>>> cc5ec42c0d801a83c4ee1016981f4e37bfce57f8
